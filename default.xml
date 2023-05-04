@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="origin" fetch="https://github.com/Varssos/" />
+  <default revision="master" remote="origin" />
+
+  <project path="gerrit/gerrit1"
+           name="gerrit1" remote="origin" />
+
+  <project path="gerrit/gerrit2"
+           name="gerrit2" remote="origin" />
+
+</manifest>
